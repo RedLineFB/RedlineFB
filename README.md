@@ -1,6 +1,7 @@
-# Hola, soy Facundo Betancur👨🏻‍💻 👋
-Desarrollador Front-end, recibido de Técnico Superior en Programación. Tengo 26 años y soy  atleta💪🏻🏋🏻‍♂️. Me gusta todo lo relacionado a la programación, desarrollo Front-end y la seguridad informática, especialmente OSINT(Open Source Intelligence).💻
-Las principales técnologias que me manejo son: Next14, React 18, Node, Socket.IO, SQL, Visual Basic(macro), Python 3, Excel.
-- 💻📳 Mi [LinkedIn](https://www.linkedin.com/in/facundo-betancur-33659a124/)
-- 💻📳 Mi [Canal de Youtube](https://www.youtube.com/@facundobetancur97/featured)
-- 💻📳 Mi [Telegram](https://t.me/redline097)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
